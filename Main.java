@@ -4,7 +4,7 @@ class Main {
    // declare variables days the debtor defaulted, amount the debtor is to pay per day,amount the debtor paid and assign values to them
    
    //Declare the variable of the total amount the debtor is to pay, the days the debtor paid for, amount the debtor is left to pay, days the debtor has not payed for
-
+//int amount;
    // calculate and print total amount the debtor is to pay
 
    // calculate and print the days the debtor paid for
